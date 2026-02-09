@@ -20,8 +20,6 @@ The latest version can be downloaded from the Releases section.
 
 Supported platforms:
 - Windows (64-bit)
-- macOS
-- Linux
 
 ## Automatic Updates
 
