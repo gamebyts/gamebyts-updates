@@ -9,8 +9,6 @@ This repository hosts binary files and updates for the GameByts application. The
 ## Contents
 
 - Windows executables (.exe)
-- macOS disk images (.dmg)
-- Linux AppImage packages (.AppImage)
 - Update files (.yml)
 - Release notes
 
@@ -33,7 +31,7 @@ For issues or suggestions, contact:
 
 ## License
 
-© 2024 GameByts. All rights reserved.
+© 2026 GameByts. All rights reserved.
 
 This application is distributed under a proprietary license.
 
